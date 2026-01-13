@@ -1,0 +1,9 @@
+student_id,name,gender,department,maths,science,english,computer,total_score
+101,Alice Sharma,Female,CSE,78,82,75,88,323
+102,Bob Verma,Male,IT,85,79,80,90,334
+103,Charlie Singh,Male,EEE,92,88,84,86,350
+104,Daisy Gupta,Female,CSE,88,90,86,92,356
+105,Ethan Mehta,Male,ME,74,70,72,78,294
+106,Farah Khan,Female,IT,81,85,88,91,345
+107,George Roy,Male,Civil,69,72,70,68,279
+108,Hina Patel,Female,CSE,90,94,92,95,371
